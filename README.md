@@ -3,9 +3,6 @@
 ## Visão Geral
 Crowd-Coin é uma aplicação descentralizada que permite a criação e gestão de campanhas de financiamento coletivo baseadas em contratos inteligentes na blockchain. Baseado no KickStarter, a missão dessa aplicação (além de aprendizado) é prevenir possíveis fraudes - maior falha da plataforma de crowdfunding. O caráter descentralizado e transparente do Ethereum permite uma aplicação que possa mitigar casos fraudulentos.
 
-## GitHub Pages
-(Insira aqui o link para o GitHub Pages hospedando o front-end da sua aplicação. Se a aplicação for executada em um servidor local ou outro serviço devido a incompatibilidades tecnológicas, forneça as instruções necessárias para a configuração e execução.)
-
 ## Endereço do Contrato na Rede Sepolia
 [Endereço do contrato na rede Sepolia.
 ](https://etherscan.io/address/0x8495D25A2b1d5120C206b3EC5257CF6833aA2361)
